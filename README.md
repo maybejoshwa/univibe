@@ -128,3 +128,4 @@ data/
 - Add filters/search/saved universities
 - Replace placeholder data with real admissions data
 - Add authentication and profile persistence
+
